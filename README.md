@@ -1,5 +1,6 @@
 # EDA_Coffee_Quality
-![image](https://github.com/bhavesh0134/EDA_Coffee_Quality/assets/88455940/35c7fe92-0912-495e-995a-443dd47c517e)
+![image](https://github.com/bhavesh0134/EDA_Coffee_Quality/assets/88455940/82ad19f2-74e1-4620-ab30-2c93215a7176)
+
 
 
 
