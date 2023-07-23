@@ -1,5 +1,6 @@
 # EDA_Coffee_Quality
-![image](https://github.com/bhavesh0134/EDA_Coffee_Quality/assets/88455940/491bffbd-acb4-49bf-bb71-b872678ff58b)
+![image](https://github.com/bhavesh0134/EDA_Coffee_Quality/assets/88455940/35c7fe92-0912-495e-995a-443dd47c517e)
+
 
 
 This is an analysis performed using the Python programming language and its built libraries. This analysis is performed on "Coffee Quality Data" available on the Kaggle platform.  EDA is performed with the help of  4 libraries provided by the Python programming language, those are namely, 'numpy', 'pandas', 'matplotlib', and 'seaborn'. 
